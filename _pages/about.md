@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yu Liu, a Ph.D student in Department of Astronomy at Huazhong University of Science and Technology. 
+My name is Yu Liu, a Ph.D. student in Department of Astronomy at Huazhong University of Science and Technology. 
+
+# Education
 
 # Research interests
 
@@ -17,6 +19,7 @@ My name is Yu Liu, a Ph.D student in Department of Astronomy at Huazhong Univers
 * Guest star
 
 * Gamma Ray Bursts
+
 
 # Contact
 
