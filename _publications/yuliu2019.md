@@ -5,13 +5,14 @@ permalink: /publication/yuliu2019
 excerpt: 
 date: 2019-9-20
 venue: 'MNRAS Letters'
-paperurl: 'https://academic.oup.com/mnrasl/article/490/1/L21/5572284'
+paperurl: '/files/paper1.pdf'
+link: 'https://academic.oup.com/mnrasl/article/490/1/L21/5572284'
 citation: 
 ---
 
 We investigate the probable association between G4.8+6.2 and the guest star of AD 1163.
 
-![guest star](AD1163.png)
+![](/images/D1163.png)
 
 AD 1163 was initially regarded as a nova. 
 
