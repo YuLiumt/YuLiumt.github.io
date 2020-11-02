@@ -3,7 +3,7 @@ title: "G4.8+6.2, a possible kilonova remnant?"
 collection: publications
 permalink: /publication/yuliu2019
 excerpt: 
-date: 2019
+date: 2019-9-20
 venue: 'MNRAS Letters'
 paperurl: 'https://academic.oup.com/mnrasl/article/490/1/L21/5572284'
 citation: 

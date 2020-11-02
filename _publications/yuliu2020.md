@@ -3,7 +3,7 @@ title: "A Search for the Guest Star Associated with Swift J1818.0-1607"
 collection: publications
 permalink: /publication/yuliu2020
 excerpt: 
-date: 2020
+date: 2020-9-24
 venue: 'RNAAS'
 paperurl: 'https://iopscience.iop.org/article/10.3847/2515-5172/abbad9'
 citation: 
